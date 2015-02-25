@@ -1,3 +1,3 @@
 # fnords!
 
-Let's make this one more fun.
+Let's make this one less fun.
